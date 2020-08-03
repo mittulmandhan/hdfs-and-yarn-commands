@@ -35,6 +35,8 @@
 ## YARN Commands
 * yarn jar <your-jar-file> <CLAUSE>
 * yarn application -list -appStates <appStates-parameters> -appTypes <appTypes-parameters>
-* yarn application kill <application-ID>
+* yarn application -kill <application-ID>
+* yarn application -status <application-ID>
+	
 
 Note: All the commands are case sensitive.
